@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GamePlay\Bird.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GamePlay\Bird.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\Tab.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\Pipes.cs" Line="38" Column="80" />
+      <File FileName="Assets\Scripts\GamePlay\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\Ground.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main Menu\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\Pause.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GamePlay\Background.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Intro\Intro.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
